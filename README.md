@@ -2,6 +2,8 @@
 2022WINFO Hackthon
 https://lin5288.wixsite.com/website
 
+[![7IUIxJ.png](https://s4.ax1x.com/2022/01/24/7IUIxJ.png)](https://imgtu.com/i/7IUIxJ)
+
 # Our story：📖
 
 People want to pursue a healthy life, but the price of healthy meals is not affordable for everyone, and the word "organic" tag on the product doubles the price of the food.
